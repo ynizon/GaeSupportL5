@@ -1,6 +1,6 @@
 {
-    "name": "shpasser/gae-support-l5",
-    "description": "Google App Engine Support for Laravel 5.1 apps.",
+    "name": "ynizon/gae-support-l58",
+    "description": "Google App Engine Support for Laravel 5.8 apps.",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.1.0",
         "illuminate/support": "~5.0",
         "league/flysystem": "~1.0"
     },
